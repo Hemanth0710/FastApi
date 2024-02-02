@@ -3,3 +3,5 @@ uvicorn
 scikit-learn=1.2.1
 pickle
 jinja2
+python-multipart
+
